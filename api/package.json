@@ -7,6 +7,8 @@
     "start": "nodemon --exec babel-node src/index.js",
     "build": "rm -Rf dist && babel src -d dist",
     "serve": "NODE_ENV=production node dist/index.js",
+    "create": "node scripts/create.js",
+    "remove": "node scripts/remove.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
