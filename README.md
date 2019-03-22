@@ -1,6 +1,6 @@
 OwO
 i findz computorz 
-UwW
+UwU
 me workz 
 :D
 hopefully
